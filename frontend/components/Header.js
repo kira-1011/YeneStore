@@ -53,7 +53,7 @@ export default function Header() {
     <HeaderStyles>
       <div className="bar">
         <Logo>
-          <Link href="/">Rad Merch</Link>
+          <Link href="/">Yene Store</Link>
         </Logo>
         <Nav />
       </div>

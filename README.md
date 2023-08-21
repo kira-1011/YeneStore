@@ -1,7 +1,6 @@
 # Yene Store
 
-Yene Store is a trendy new store that allows you to buy and sell your favorite products. Add any available item to your cart and edit or delete any products you've added to the store. Rad Merch is easy to use on both a desktop or your mobile phone.
-
+Yene Store is a trendy new store that allows you to buy and sell your favorite products. Add any available item to your cart and edit or delete any products you've added to the store.
 ## Technology Used
 
 ### Frontend

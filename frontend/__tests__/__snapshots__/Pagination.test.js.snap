@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pagination/> renders pagination for 18 items 1`] = `
+<div>
+  <div
+    class="pagination-box"
+    style="text-align: center;"
+  >
+    <div
+      class="PaginationStyles-sc-aduuar-0 gKkhtj"
+      data-testid="pagination"
+    >
+      <a
+        aria-disabled="true"
+        href="/products/0"
+      >
+        Prev
+      </a>
+      <p>
+        Page 
+        1
+         of 
+        3
+      </p>
+      <p
+        class="total-items"
+      >
+        18
+         Items Total
+      </p>
+      <a
+        aria-disabled="false"
+        href="/products/2"
+      >
+        Next
+      </a>
+    </div>
+  </div>
+</div>
+`;
